@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500&display=swap');
+body {
+    background-color: hsl(210, 46%, 95%);
+    color: white;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+main {
+    margin: 3em 6em;
+}
+
+.daniel {
+    background-color: hsl(263, 55%, 52%);
+    padding: 1em;
+    border-radius: 10px;
+    margin: 0em 2em;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-image: url(images/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position: 22em 0em;
+}
+
+.jonathan {
+    background-color: hsl(217, 19%, 35%);
+    padding: 1em;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+
+.kira {
+    background-color: white;
+    padding: 1em;
+    border-radius: 10px;
+    margin: 0em 2em;
+    color: black;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    height: 100%;
+}
+.jeanette {
+    background-color: white;
+    padding: 1em;
+    border-radius: 10px;
+    margin: 0em 2em;
+    color: black;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-top: 2em;
+}
+.patrick {
+    background-color: hsl(219, 29%, 14%);
+    padding: 1em;
+    border-radius: 10px;
+    
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-top: 2em;
+}
+
+
+h1 {
+    font-size: 1em;
+}
+img{
+    border-radius: 10em;
+    border-color: white;
+    border: 2px solid white;
+    width: 2.5em;
+}
+.line{
+    margin-left: 1em;
+    line-height: 0.5em;
+}
+p{
+    color: hsl(210, 46%, 95%);
+    font-size: 0.8em;
+}
+h2{
+    font-size: 1.2em;
+    padding: 1em;
+}
+.pad{
+    padding: 1em;
+}
+.padj{
+    margin-left: 1.6em;
+}
+.gray{
+    color: rgb(119, 117, 117);
+}
+.black{
+    color: black;
+}
+.purple{
+    border: 2px solid hsl(263, 55%, 52%);
+}
